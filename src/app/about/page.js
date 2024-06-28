@@ -2,7 +2,7 @@ const About =()=>{
 
     return(
       <div> 
-        <h2>this is a ashutosh </h2>
+        <h2>this is a ashutosh sadana </h2>
         </div>
   
     )
